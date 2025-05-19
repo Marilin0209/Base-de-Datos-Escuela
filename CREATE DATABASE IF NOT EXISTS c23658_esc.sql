@@ -85,7 +85,7 @@ INSERT INTO alumnos (id_escuela, legajo, nombre, nota, grado, email) VALUES
 (3, 1044, 'Tomás Báez', 5, 3, 'tomas.baez@email.com'),
 (4, 1045, 'Luciano Blanco', 8, 4, 'luciano.blanco@email.com'),
 (4, 1046, 'Carla Maidana', 7, 5, 'carla.maidana@email.com'), 
-(5, 1047, 'Ismael Quiroga', 6, 4, 'ismael.quiroga@email.com');
+(5, 1047, 'Marilin Quiroga', 6, 4, 'ismael.quiroga@email.com');
 
 
 
